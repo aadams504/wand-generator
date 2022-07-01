@@ -1,2 +1,3 @@
 # wand-generator
-script generates wand from wizarding world verified components
+
+This program generates the perfect wand for you using the magic of javascript.
